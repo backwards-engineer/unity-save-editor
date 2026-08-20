@@ -1,0 +1,27 @@
+# Personal saves and local investigation files
+*.bak
+*.lastsuccessful
+*.editor-backup-*
+.editor-*
+*.decoded.json
+hair_assets.json
+hair_resources.json
+hair-options.csv
+inspect_hair.py
+# Local packages and Python output
+deps/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+# Credentials and local configuration
+.env
+.env.*
+*.pem
+*.key
+id_*
+*.log
+# Only synthetic example saves are publishable
+*.json
+!examples/save-a.json
+!examples/save-b.json
