@@ -1,0 +1,23 @@
+{
+  "Player": {
+    "Name": "Demo player",
+    "Coins": 1250,
+    "Energy": 90,
+    "Appearance": {
+      "HairStyle": "LittleBuns",
+      "HairColor": "Blonde"
+    }
+  },
+  "Inventory": [
+    {
+      "Item": "Moonflower",
+      "Amount": 7
+    }
+  ],
+  "World": {
+    "Day": 3,
+    "Season": "Autumn"
+  },
+  "TutorialComplete": true,
+  "UnlockedRecipe": "Pumpkin soup"
+}

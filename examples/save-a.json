@@ -1,0 +1,22 @@
+{
+  "Player": {
+    "Name": "Demo player",
+    "Coins": 600,
+    "Energy": 75,
+    "Appearance": {
+      "HairStyle": "ElvishHair",
+      "HairColor": "Brown_Dark"
+    }
+  },
+  "Inventory": [
+    {
+      "Item": "Moonflower",
+      "Amount": 3
+    }
+  ],
+  "World": {
+    "Day": 2,
+    "Season": "Autumn"
+  },
+  "TutorialComplete": false
+}
